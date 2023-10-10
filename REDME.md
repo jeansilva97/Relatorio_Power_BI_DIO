@@ -1,0 +1,2 @@
+1- O desafio do projeto 'Criando um Relatório de Vendas Elegante com Power BI' solicitou que eu criasse a segunda página do relatório. No entanto, decidi recriar tanto a primeira aba do relatório quanto a segunda, seguindo o que foi solicitado, com algumas pequenas modificações estilísticas.
+2- O arquivo "Relatório Financial Sample - DIO" se trata do relátorio em Power Bi no formato origem (pbix) do Power BI.
